@@ -1,18 +1,18 @@
-# Título do projeto
+# AC2
 
-Um parágrafo da descrição do projeto vai aqui
+Exercício sobre gerenciamento de frutas com uso de array e interface
 
-## 🚀 Começando
+## 🚀 Enunciado
 
-Pode colocar o enunciado para o desenvolvimento do projeto
+CRIE UM PROJETO JAVA PARA MESCLAR OS CONHECIMENTOS SOBRE O USO DE ARRAY E DE INTERFACES;
 
-### 📋 Pré-requisitos
+PARA ISSO CONSTRUA UM CÓDIGO QUE TENHA UM INTERFACE E QUE REALIZE AS OPERAÇÕES ENCONTRADAS NO PROJETO DE GERENCIAMENTO DE FRUTAS;
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+DURANTE O DESENVOLVIMENTO COMENTE O CÓDIGO CRIADO;
 
-```
-Dar exemplos
-```
+### 📋 Códigos
+
+![imagem_2024-11-06_232909510](https://github.com/user-attachments/assets/ef6904c2-2fb8-4a39-b90f-5df58b3e9c1a)
 
 ### 🔧 Instalação
 
@@ -31,5 +31,5 @@ Ferramentas utilizadas e bibliotecas
 
 ## ✒️ Autores
 
-* **Nome do desenvolvedor** - *Trabalho Inicial* - Nome da atividade
+* João Carlos Ferreira de Araujo RA248152 - AC2 de Programação Orientada à Objetos
 
